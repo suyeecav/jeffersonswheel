@@ -80,4 +80,4 @@ Adversarial Examples with Limited Queries_](https://arxiv.org/pdf/1908.07000.pdf
 
 [https://github.com/suyeecav/Hybrid-Attack](https://github.com/suyeecav/Hybrid-Attack)
 
-In this repository, we provide the source code to reproduce the results in the paper. In addition, we believe our hybrid attack framework can (potentially) help boost the performance of new optimization attacks. Therefore, in the repository, we also provide tutorials to incorporate new optimization attacks into the hybrid attack framework. 
+In this repository, we provide source code to reproduce the results in the paper. In addition, we believe our hybrid attack framework can (potentially) help boost the performance of new optimization attacks. Therefore, in the repository, we also provide tutorials to incorporate new optimization attacks into the hybrid attack framework. 
